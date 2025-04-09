@@ -1,0 +1,34 @@
+{
+    "name": "PlayerMovement",
+    "maps": [
+        {
+            "name": "Move",
+            "id": "519a7102-af2c-4d01-b6d4-cddcdaa45596",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "4862e5f7-1486-4f16-a056-07285f6dc62c",
+                    "expectedControlType": "Touch",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "43037f2c-9865-43cf-8dfa-e6b4c2fd9550",
+                    "path": "<Pointer>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

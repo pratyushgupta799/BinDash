@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 001197277e9c8cc4a9ac567e80c2ed81
+timeCreated: 1451990896
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 53276
+  packageName: Simple UI Elements
+  packageVersion: 1.0
+  assetPath: Assets/Assets/Scenes/ProgressBar and Sliders.unity
+  uploadId: 96991
